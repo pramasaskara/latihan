@@ -1,0 +1,14 @@
+.btn:hover{
+    background-color: aqua;
+}
+p {
+    text-align: justify;
+}
+img{
+    height: 300px;
+    width: 100px;
+}
+body {
+    background-image:linear-gradient(rgb(0, 255, 213), aqua, rgb(0, 225, 255))
+}
+
